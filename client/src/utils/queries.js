@@ -56,5 +56,3 @@ export const QUERY_USER = gql`
     }
   }
 `;
-
-module.exports = {QUERY_THOUGHT,QUERY_THOUGHTS};
